@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file alias = "T_Icon_Ellipse.png"      >Resoursces/T_Icon_Ellipse.png</file>
+        <file alias = "T_Icon_Line.png"         >Resoursces/T_Icon_Line.png</file>
+        <file alias = "T_Icon_Pencil.png"       >Resoursces/T_Icon_Pencil.png</file>
+        <file alias = "T_Icon_Rectangle.png"    >Resoursces/T_Icon_Rectangle.png</file>
+        <file alias = "T_Icon_Erase.png"        >Resoursces/T_Icon_Erase.png</file>
+    </qresource>
+</RCC>
